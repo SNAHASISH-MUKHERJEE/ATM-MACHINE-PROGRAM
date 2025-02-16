@@ -1,5 +1,4 @@
-# Automated Teller Machine Simulator 
-briefly introduced ATM machine program
+# Automated Teller Machine 
 Features:
 1. Display balance 
 2. Cash Withdrawal 
