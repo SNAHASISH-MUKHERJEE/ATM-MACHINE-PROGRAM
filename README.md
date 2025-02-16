@@ -4,10 +4,10 @@ Features:
 2. Cash Withdrawal 
 3. Deposit Amount 
 5. Change PIN
-How to use:
-1.clone the repository 
-2.Run the program on python 3 google colab backend 
-3.Follow on screen instruction
+   How to use:
+1. Clone the repository 
+2. Run the program on python 3 google colab  backend 
+3. Follow on screen instruction
 Contributing:
 Contribution are welcome. Please submit the issues and pull request through github.
 Acknowledgement:
