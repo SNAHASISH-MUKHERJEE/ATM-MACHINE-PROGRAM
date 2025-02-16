@@ -1,1 +1,1 @@
-# ATM-machine-system
+# ATM-machine-program
